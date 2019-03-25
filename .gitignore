@@ -1,0 +1,5 @@
+.DS_Store
+bin/emu
+bin/com
+bin/emu-debug
+bin/com-debug
